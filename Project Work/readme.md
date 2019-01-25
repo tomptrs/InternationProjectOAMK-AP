@@ -344,9 +344,7 @@ Make agreements with the group about the next questions:
 
 - 7° What if the agreements aren’t honored? What are the penalties? …
 
-
-
-#Assignment 7:  Presentation of the project proposal
+# Assignment 7:  Presentation of the project proposal
 
 1° Presentation of the project proposal
 
