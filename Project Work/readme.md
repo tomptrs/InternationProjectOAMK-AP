@@ -1,9 +1,5 @@
 # Project Work
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
 
 ## Initiating the project  
 
@@ -190,9 +186,14 @@ If I am suddenly given a difficult task with limited time and unfamiliar people:
 Add up the totals in the end column, reading across the rows. 
 
 
-|Section / Roles|	1 |	2 |	3 |	4 |	5 |	6 |	7 |	Total |
-								
-**CF**           | E |	H |	B |	F |	G | D |	C |	      |
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
+|Section / Roles|	1 |	2 |	3 |	4 |	5 |	6 |	7 |Total |
+|---------------|---------|-------|-------|-------|-------|-------|-------|------|
+**CF**		| E |	H |	B |	F |	G | D 	  |	C |	      |
 **IMP**          | G |	A |	H |	D |	B |	F |	E |	      |
 **ME**     	     | H |	D |	G |	C |	A |	E |	B |    	  |
 **SP**           | C |  H | E |	A |	B |	E |	D |       |
