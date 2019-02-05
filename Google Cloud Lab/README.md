@@ -92,5 +92,6 @@ https://www.qwiklabs.com/focuses/551?locale=en&parent=catalog
 - This is an extra lab
 https://www.qwiklabs.com/focuses/1841?catalog_rank=%7B%22rank%22%3A8%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&locale=en&parent=catalog&search_id=1956082
 
-
+## Lab 5: Firebase (Free lab!)
+https://www.qwiklabs.com/focuses/660?locale=en&parent=catalog
 
