@@ -4,7 +4,7 @@
 ## Initiating the project  
 
 Initiating the project is the first step or phase of the project.  The most important milestones here are the acquaintance with the team members and the client and making and presenting the project proposal.  
-
+http://www.spring2innovation.com/2019/04/design-thinking-vs-user-centred-design/
 
 ## Assignment 1: The project team 
 
